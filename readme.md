@@ -48,7 +48,7 @@ A lightweight 2D game engine built in Rust specifically designed for creating a 
 
 ```bash
 # Clone the repository
-git clone https://github.com/jeffasante/ping_pong_engine.rust
+git clone https://github.com/jeffasante/pingpong-engine-rs
 cd ping_pong_engine
 
 # Build and run
